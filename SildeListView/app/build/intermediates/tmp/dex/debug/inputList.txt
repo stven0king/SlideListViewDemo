@@ -1,5 +1,0 @@
-E:\Android_Program\SlideListViewDemo\SildeListView\app\build\intermediates\classes\debug
-E:\Android_Program\SlideListViewDemo\SildeListView\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-ad2585b2d0daf372e84236315cbb12db0d207d02.jar
-E:\Android_Program\SlideListViewDemo\SildeListView\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-4ff6cc453cb79e422ce64e0bc80656c80c6f5af9.jar
-E:\Android_Program\SlideListViewDemo\SildeListView\app\build\intermediates\pre-dexed\debug\classes-7e755868553f8935810d79559960b1e891335a96.jar
-E:\Android_Program\SlideListViewDemo\SildeListView\app\build\intermediates\pre-dexed\debug\classes-22688f60cd5867c7a9273a9cbcde5847f2727429.jar
